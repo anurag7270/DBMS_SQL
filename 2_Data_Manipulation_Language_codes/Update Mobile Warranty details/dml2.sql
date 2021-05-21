@@ -1,0 +1,1 @@
+update mobile_master SET warranty_in_years=3;
